@@ -1,0 +1,125 @@
+/* html,
+body {
+  font-family: "Muli", "Segoe Ui";
+}
+
+body {
+  float: left;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  color: #545454;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+    color: inherit;
+    outline: none;
+    -webkit-text-decoration: none;
+    -moz-text-decoration: none;
+    -ms-text-decoration: none;
+    -o-text-decoration: none;
+    text-decoration: none;
+}
+
+input:focus,
+textarea:focus,
+select:focus,
+button:focus {
+    outline: none;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+section {
+    float: left;
+    position: relative;
+    width: 100%;
+}
+
+[type="submit"],
+button,
+html [type="button"] {
+    cursor: pointer;
+}
+
+textarea {
+    resize: none;
+}
+
+iframe#html5boxiframevideo {
+  height: 100%;
+}
+
+iframe {
+  width: 100%;
+}
+
+textarea {
+  border: 1px solid #eeeeee;
+  border-radius: 6px 6px 0 0;
+  padding: 10px;
+  width: 100%;
+  border-bottom: 0;
+}
+
+form button {
+  border: medium none;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 3px 10px;
+}
+
+
+footer {
+  background: #fff;
+  float: left;
+  padding: 75px 0;
+  width: 100%;
+  position: relative;
+}
+
+footer::before {
+  background: rgba(0, 0, 0, 0) linear-gradient(to right, #ffffff 0%, #2fa7cd 50%, #ffffff 100%) repeat scroll 0 0;
+  content: "";
+  height: 5px;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+canvas {
+  display: inline-block;
+  vertical-align: baseline;
+}
+
+blockquote {
+  display: inline-block;
+  font-size: 26px;
+  font-style: italic;
+  font-weight: 300;
+  line-height: 40px;
+  margin-bottom: 50px;
+  margin-top: 30px;
+  width: 100%;
+}
+
+blockquote > p {
+  display: inline-block;
+  margin-bottom: 0;
+  width: 100%;
+  color: inherit;
+  font: inherit;
+} */
