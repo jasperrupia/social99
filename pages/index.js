@@ -28,7 +28,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         <link rel="icon" href="images/community.jpg" type="image/png" sizes="16x16" />
-        <title>Social Network</title>
+        <title>Social 99</title>
       </Head>
 
       {/* <div className="se-pre-con"></div> */}
@@ -76,7 +76,7 @@ export default function Home() {
                         <Following />
                       </aside>
                     </div>
-                    <div className="col-lg-6 px-5">
+                    <div className="col-lg-6 postArea">
                       <CreatePost />
                       <div className="loadMore">
                         <PostImage />

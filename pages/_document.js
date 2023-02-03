@@ -7,7 +7,6 @@ export default function Document() {
         <link rel="stylesheet" href="css/main.min.css" />
         <link rel="stylesheet" href="css/style.css" />
         <link rel="stylesheet" href="css/color.css" />
-        <link rel="stylesheet" href="css/responsive.css" />
       </Head>
       <body>
         <Main />

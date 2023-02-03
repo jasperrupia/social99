@@ -10,7 +10,7 @@ export default function TopBar() {
 		<div className="top-area">
 			<div className="top-search">
 				<form method="post" className="">
-					<input type="text" placeholder="Search Friend"/>
+					<input type="text" placeholder="Search"/>
 					<button data-ripple><i className="ti-search"></i></button>
 				</form>
 			</div>
